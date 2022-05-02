@@ -130,3 +130,4 @@ dmypy.json
 
 # Items I added
 hf_models/* 
+.pth
