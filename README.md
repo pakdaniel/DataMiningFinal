@@ -33,3 +33,4 @@ A variety of different models were used.
 2. Multi Layer Perceptron - Chosen to be a baseline deep neural network; used 1-D representation
 3. Vision Transformer - Used 2-D representation of data with various patch sizes with no pre-training or fine-tuning; model architecture was obtained from https://github.com/lucidrains/vit-pytorch
 4. ViT-Base - Used 2-D representation of data following original paper and was already pre-trained and fine-tuned; model architecture was obtained from https://github.com/rwightman/pytorch-image-models
+5. wav2vec2 - Used 1-D representation of data following original paper and was already pre-trained and fine-tuned; model architecture was obtained from https://huggingface.co/facebook/wav2vec2-base
